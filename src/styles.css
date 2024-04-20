@@ -8,5 +8,8 @@
 }
 
 body{
-  background-color: #1F1147;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://img.freepik.com/fotos-premium/clash-of-the-creatures-uma-batalha-realista-de-anime-4k-cao-contra-gato-no-escuro_983420-2432.jpg?w=1060");
 }
